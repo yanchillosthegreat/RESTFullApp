@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RESTFullApp.iml" filepath="$PROJECT_DIR$/RESTFullApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RESTFullApp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/RESTFullApp_main.iml" group="RESTFullApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RESTFullApp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/RESTFullApp_test.iml" group="RESTFullApp" />
+    </modules>
+  </component>
+</project>
